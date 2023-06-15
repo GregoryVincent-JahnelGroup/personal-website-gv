@@ -1,13 +1,23 @@
-#If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: GAV Consulting
+  description: A work in progress React SPA for Gregory Vincent Sr's Consulting Business. Created with Vite in order to get experience
+    with the faster build tool, and being developed in Typescript to get experience with the JS Superset. Managing emails is the next challenge for this project 
+    will probably be done through learning some basic PHP, or through Amazon SES! This project also has responsive and a mobile first design in mind, over 
+    project 2, which was developed when I didn't understand that concept. 
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: GKV RealEstate
+  description: My first ever React SPA hosted with AWS Amplify in Summer of 2022. Serves as a basic demo for what a website may look like
+    for GKV RealEstate. Now that I have more experience and knowledge in the Web Dev field I'd like to update it - switch development over to Vite from CRA as it 
+    gets more complex(and to Typescript since it's much safer), add MUCH needed Responsive Design, code splitting, and update the pictures in the image gallery.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Anonymous Messaging
+  description: A work in progress chat-application started in November of 2022. The idea is to get much more comfortable with Fullstack Development and take my skillset
+    beyond just using React and other front-end technology. I chose the MERN stack as my beginner framework since I already had prior experience with React and Node.
+    This project will probably finished after my internship at Jahnel - when I have much more experience working with Fullstack(and Serverless) technologies. In terms of
+    functionality, I'd like to emulate something like GroupMe with a twist - the name of each sender changes periodically! Not super useful, but a fun idea I had. Could be
+    used for muystery games or something of that nature. 
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Java Computer Simulation
+  description: This project was created to simulate the basic inner workings of a computer in Java throughout the Fall 2022 school year. The final project hosted on main 
+    is the culmination of different componnents( like a RippleAdder, Multiplier, Assembly, Memory Simulation) working together. It also allows the user who downloads the code
+    to run some basic Machine Language commands! Very fun to create and work with. 

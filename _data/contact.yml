@@ -1,13 +1,14 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: https://www.linkedin.com/in/gregory-vincent-8a3852233/
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: https://github.com/GregV-crypto 
+
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: https://github.com/GregoryVincent-JahnelGroup/personal-website-gv 
 
 #The email you'd like people to contact you with.
-email: /
+email: gregvjrr@gmail.com  

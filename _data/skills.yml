@@ -3,34 +3,14 @@ header: Say something about what you're good at
 subheader: Give some more context
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: React Development
+    description: Experience developing and creating React Applications - as such, I have experience with
+      the essentials needed for React Development.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: AWS Services and Hosting
+    description: Experience with essential AWS services like 
+      API Gateway, Lambda, DynamoDB and Amplify.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
-
-#If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+  - name: General Purpose Development.
+    description: Skill working with general purpose languages like 
+      Java, C/C++ , Python and JavaScript across a multitude of projects. 
